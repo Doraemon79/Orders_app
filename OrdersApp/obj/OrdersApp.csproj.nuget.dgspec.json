@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\OrdersAPI\\OrdersApp\\OrdersApp\\OrdersApp.csproj": {}
+    "C:\\Repos\\Orders_App\\OrdersApp\\OrdersApp.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\OrdersAPI\\OrdersApp\\OrdersApp\\OrdersApp.csproj": {
+    "C:\\Repos\\Orders_App\\OrdersApp\\OrdersApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\OrdersAPI\\OrdersApp\\OrdersApp\\OrdersApp.csproj",
+        "projectUniqueName": "C:\\Repos\\Orders_App\\OrdersApp\\OrdersApp.csproj",
         "projectName": "OrdersApp",
-        "projectPath": "C:\\Repos\\OrdersAPI\\OrdersApp\\OrdersApp\\OrdersApp.csproj",
+        "projectPath": "C:\\Repos\\Orders_App\\OrdersApp\\OrdersApp.csproj",
         "packagesPath": "C:\\Users\\ignle\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\OrdersAPI\\OrdersApp\\OrdersApp\\obj\\",
+        "outputPath": "C:\\Repos\\Orders_App\\OrdersApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,10 +45,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.17.0, )"
